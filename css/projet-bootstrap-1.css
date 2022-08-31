@@ -1,0 +1,69 @@
+body{background-color: #e5e5e5;}
+
+.un{
+    margin-top: 50px;
+    text-align: center;}
+
+h1{
+    line-height: 1;
+    font-size: 49px;
+    font-weight: bolder;}
+
+.part1, .part2, .part3, .part4{
+    text-align: center;
+    margin-top: 50px;
+    width: 225px;
+    box-shadow: 2px 2px 2px 2px #cecece;
+    background-color: white;
+    overflow: hidden;
+    border-radius: 0px 0px 15px 15px;}
+
+h4{
+    margin-top: 25px;
+    margin-bottom: 20px;}
+
+.deux{
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: 50px;}
+
+
+.rectrose, .rectbleu, .rectviolet, .rectjaune{
+    width: 225px;
+    margin-left: -12px;
+    height: 15px;}
+
+.rectrose{
+    background-color: #e142dc;}
+
+.rectbleu{
+    background-color: #2cbecc;}
+
+.rectviolet{
+    background-color: #6751e7;}
+.rectjaune{
+    background-color: #f1c50e;}
+
+.logo1, .logo2, .logo3, .logo4{
+    height: 75px;
+    width: 75px;
+    margin-top:20px;
+    border-radius: 50%;}
+
+.logo1{
+    background-color: #e142dc;}
+
+.logo2{
+    background-color: #2cbecc;}
+
+.logo3{
+    background-color: #6751e7;}
+
+.logo4{
+    background-color: #f1c50e;}
+
+.trois{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;}
